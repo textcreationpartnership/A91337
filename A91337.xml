@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Sr. George Pudsey Kt. at the time of his being sworn. Recorder of the city of Oxford in the Council-chamber of the same city, on Tuesday the eighth day of January 1683[/]4. where they agreed to the sealing the instrument sent by His Majesty. Order'd by act of Council, that Sir George Pudsey Knt. be desir'd, to print his speech. Baker.</title>
+            <author>Pudsey, George, Sir, b. 1664?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91337</idno>
+            <idno type="STC">Wing P4167</idno>
+            <idno type="STC">ESTC R215510</idno>
+            <idno type="EEBO-CITATION">99896710</idno>
+            <idno type="PROQUEST">99896710</idno>
+            <idno type="VID">135527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2447:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Sr. George Pudsey Kt. at the time of his being sworn. Recorder of the city of Oxford in the Council-chamber of the same city, on Tuesday the eighth day of January 1683[/]4. where they agreed to the sealing the instrument sent by His Majesty. Order'd by act of Council, that Sir George Pudsey Knt. be desir'd, to print his speech. Baker.</title>
+                  <author>Pudsey, George, Sir, b. 1664?</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Anthony Stephens bookseller near the Theater,</publisher>
+                  <pubPlace>Oxon :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A²  B² .</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Local government --  England --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135527:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>THE SPEECH OF S<hi rend="sup">r.</hi> George Pudſey K<hi rend="sup">t.</hi> At the Time of his being Sworn.</p>
+            <p>RECORDER OF THE City of Oxford IN The Council-Chamber of the ſame City, on Tueſday the Eighth day of <hi>January</hi> 1683/4. where they agreed to the Sealing the Inſtrument ſent by his Majeſty.</p>
+            <q>
+               <p>Order'd by Act of Council, that <hi>Sir GEORGE PUDSEY Knt.</hi> be Deſir'd, to Print his Speech.</p>
+               <bibl>
+                  <hi>BAKER.</hi>
+               </bibl>
+            </q>
+            <p>OXON Printed for <hi>Anthony Stephens</hi> Bookſeller near the <hi>Theater,</hi> 1684.</p>
+            <pb facs="tcp:135527:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:135527:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:135527:3"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:135527:3"/>
+            <!-- PDF PAGE 99 -->
+            <head>The Speech of <hi>Sir George Pudſey</hi> Knight, at the Time of his being Sworn <hi>Recorder, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>FOrtune has at laſt gratified me in that earneſt Deſire I have always had to ſerve You; And tho I deſpair of making due Acknowledgments, yet you may believe, that I am very ſenſible of the Favour you have done me, in ſo unanimouſly chuſing me to be your Servant; for ſuch a one your Recorder is: 'tis a place of Honour, and of Truſt, and if I diſcharge it not as I ought, or at leaſt as I am able, I am the worſt of Men: I value my ſelf much upon it, but more upon your Friendſhip. Perhaps few Recorders for many ages have been ſo freely Elected. Therefore Grati<g ref="char:EOLhyphen"/>tude as well as Oath obliges me to be faithful to you, Inte<g ref="char:EOLhyphen"/>reſt alſo, (a mighty Motive) prompts me to the ſame. I am your Neighbour as well as fellow Citizen. The little For<g ref="char:EOLhyphen"/>tune that I have lies near you, if <hi>Oxford</hi> flouriſh, <hi>Elsfield</hi> will not fare the worſe. Gentlemen, I hope you'l have a favou<g ref="char:EOLhyphen"/>rable opinion of him you have made yours. 'Its no incon<g ref="char:EOLhyphen"/>ſiderable diſadvantage to ſucceed a man of ſuch great abi<g ref="char:EOLhyphen"/>lities as your laſt Recorder was: A Perſon who liv'd long amongſt you, and knew the ſecrets of your Corporation; yet this I vow, I'le pray the aid of all the Inns of Court rather then you ſhall ſuffer; And indeed why ſhould you in any thing? Have you not opportunities enough to be hap<g ref="char:EOLhyphen"/>py? Does not the Great and Good Earl of <hi>Abingdon</hi> offer his aſſiſtance, ready at all times upon his knee to begg his Ma<g ref="char:EOLhyphen"/>jeſties Favour in your behalf? When he appears, Make room for <hi>Oxford,</hi> cries the Guards, the Town is Loyal grown; when at another time (if I may ſpeak it) A modeſt <hi>Oxford</hi> man dare hardly peep in Court. Why then don't we by his vaſt Intereſt let in the Beames of Majeſty upon us? Who can live without the Sun? Have we not a famous Univerſity for our Example? Let her great Loyalty (if it be poſſible) be out done by us. Can we be poiſon'd at the Fountain head? Where is Learning, Piety, and Obedience practis'd, if not in this our Engliſh <hi>Athens?</hi> Who ſo ignorant that does not know how eminent this Place has been for Loialty? How proud it was when <hi>Charles</hi> the firſt, that Glorious King,
+<pb facs="tcp:135527:4"/>
+               <!-- PDF PAGE 100 -->ſhut himſelf up within our walls? Did not our Citizens fol<g ref="char:EOLhyphen"/>low <hi>Bellona's</hi> Call, to defend his Sacred Perſon from Rebels fury? Was not this the Seat of warr? With what bravery and gallantry did this City aſſert its Monarch's Right? Sure<g ref="char:EOLhyphen"/>ly the ſtock of Loyalty is not worn out. How many are there in this place now that liv'd in thoſe days, and play'd the Souldiers part, therefore I'le not think there's an ill man amongſt us, however it happens that for ſome miſca<g ref="char:EOLhyphen"/>riages of ours we ſtand not right in <hi>Caeſars</hi> favour. We pro<g ref="char:EOLhyphen"/>miſe largely, perform poorly, and that with grudging too. The widow's mite, what was it? yet being all, and freely given, had the largeſt thanks. Gentlemen, let me adviſe you to redeem your ſelves again: His Majeſty, whom the Law ſtiles Head of the Kingdom, Father of the Country, Maſter of the whole family of the Nation, Cheif Juſtice of all <hi>England,</hi> and a kind of petty God on earth, who for the excellency of his Perſon, by way of reſemblance, has Divine Attributes, as Immortality, for as King he never dies, So<g ref="char:EOLhyphen"/>veraignty, Majeſty, Power, Verity, Juſtice, and the like: He is merciful, of a God-like temper, as ready to forgive as we to ask: let us think nothing but good of him and his Go<g ref="char:EOLhyphen"/>vernment; for fears and jealouſies have been of fatal con<g ref="char:EOLhyphen"/>ſequence to this Nation, and ſtill are the greateſt enemies to the peace and tranquility of it. Sometimes they cry Popery is a breaking in upon us, when God knows (as it is lately prov'd) the eight hundredth man is not Papiſt, unleſs all are ſuch that are not Diſſenters from the Church, for ſo indeed they call us. Did not his Majeſty for ſeveral years live in Popiſh ſoil, yet came over to us as well in Heart as Title, <hi>De<g ref="char:EOLhyphen"/>fender of the Faith.</hi> His Royal Highneſs, Great <hi>Brittans Mars,</hi> its Heir, and Glory, has upon all occaſions expreſt himſelf highly in favour of our Church, has ſettled the Pro<g ref="char:EOLhyphen"/>teſtant Religion upon ſuch ſure foundations in <hi>Scotland,</hi> that it's not to be ſhaken. Are not his Daughters, (after him the preſent Heirs to the Imperial Crown,) Proteſtants, and married two ſuch Princes, on deſign purely for to ſe<g ref="char:EOLhyphen"/>cure our Religion, when <hi>France</hi> it ſelf courted that alliance for its Heir? Are not the Lords of the Romiſh Faith excluded the Houſe of Peers? the Laws ſtrictly put in execution againſt the Papiſts? Beſides, what alteration can there be in Church
+<pb facs="tcp:135527:4"/>
+               <!-- PDF PAGE 100 -->or State, without a National conſent? If theſe are ſignes of Popery then indeed we are in danger. What think ye Gen<g ref="char:EOLhyphen"/>tlemen? You are men of reaſon, live among the Muſes, where Learning is at the Hight; Though I muſt confeſs if a Papiſt muſt not breath Common Air, or tread his Native Earth becauſe he is ſo, 'tis hard. Who does not think his own opinion beſt? Sometimes again, how does the fears of Ar<g ref="char:EOLhyphen"/>bitrary Power, of loſs of Liberty and Property call Crowds together to conſult, who ſhake the Head, look down, cry we are loſt, ſad times are coming? when that's the only way to have them come, for if a People grow Rebell-ripe, why ſhould not we believe that Kings who ſet at ſtern, that pick and cull the Nation for the wiſeſt Heads, ſhould not endea<g ref="char:EOLhyphen"/>vour to preſerve their Empire, and Dominion, as well as we quit ſhops and ſtalls and fly to Coffee-Houſes to examine every Letter, to ſee how things are like to goe with us. Gen<g ref="char:EOLhyphen"/>tlemen, be not ſeduc'd by men of Seditious Spirits; The firſt ſin of Men and Angels was Rebellion, Heaven and Paradiſe were loſt by it, beleive it is the Kings Intereſt, as well as Royal Inclination to Preſerve us in our Rights and Liber<g ref="char:EOLhyphen"/>ties; For take away Property, and induſtry is quickly at an end: Where is the Crowns ſafety then? The empty Tra<g ref="char:EOLhyphen"/>vailer laughs at the Thief; who values his Countries defence that hath nothing in it which he can call his own? In ſome of the Eaſtern Parts, (the Garden of the World by Nature) a man may Ride ſome ſcores of Miles, and ſcarcely ſee a Hut; becauſe no man has any thing but at the Princes will; With us the Proſperity of the People is the Monarchs joy: He alwaies eſteems himſelf Rich if they are ſo.</p>
+            <p>Gentlemen, I am not altogether a ſtranger to Hiſtory, can give a reaſonable account of moſt Countries, amongſt which <hi>England</hi> has not an equal. Let us ſee how matters ſtood with the Jews in Righteous <hi>David's</hi> days? Thou and <hi>Ziba</hi> divide the Land was <hi>David's</hi> judgment: againſt his Maſters Son before his offence was prov'd. A Semeter or a Bow-ſtring leaves breathleſs in a minute the greateſt ſubject in three parts of the world, without a Judge and Jury. In our Neighbouring Countries, Racks and Wheeles are thought gentle eaſy waies to find out truth. The <hi>French</hi> Kings ſword is his ſubjects Charter, The <hi>Spaniſh</hi> Inquiſition
+<pb facs="tcp:135527:5"/>
+               <!-- PDF PAGE 101 -->this worlds Hell. In <hi>Holland</hi> it ſelf, that fam'd Common-wealth, a Herring is Excis'd nine times before it's eat, yet in theſe places all huſh, and ſtill: No Plots to murder Kings, or Magiſtrates. Gentlemen, you muſt pardon me, if I tell ye, that many times the too great indulgence of a Prince brings ſpeedy ruin to a Nation. <hi>Plutarch</hi> in the life of <hi>Lycur<g ref="char:EOLhyphen"/>gus</hi> gives us a Relation of one <hi>Eurytion</hi> a <hi>Spartan</hi> King, who took a courſe never practis'd by his wiſe Predeceſſors, which was to cajole his own Subjects by ſlacking the Reins of the Royal Authority; but ſee what follow'd, inſtead of gaining upon them, they grew ſo inſolent that at laſt they brought the Government into contempt, and ſoon after the whole Kingdom into Anarchy and confuſion, and were never ſa<g ref="char:EOLhyphen"/>tisfied, till one of their beſt Princes was barbarouſly mur<g ref="char:EOLhyphen"/>der'd in the ſtreets by the Rabble, as he was appeaſing a Tumult; How near a paralel is this to his late Majeſty who I'le boldly ſay has done more, except the Preſent King, to endear the ſubject then all the Kings from the Norman to this time beſides; but what come on't? That's a Melan<g ref="char:EOLhyphen"/>cholly conſideration. Mercy and Goodneſs in Princes are too often miſtaken, and call'd neceſſity and eaſineſs of Nature: An yeilding King ſhall alwaies find a craving Subject. We are like the Iſraelites never ſatisfi'd, deſire to return back in<g ref="char:EOLhyphen"/>to Egypt into our old Bondage. I have heard, that in the late Rebellion, a Captain and his Company has made <hi>Lon<g ref="char:EOLhyphen"/>don</hi> that haughty Miſtris of our Iſle, whom we ſo much de<g ref="char:EOLhyphen"/>light to imitate, all in teares, her Citizens Crouching like Spaniels at the frown of a Traytor, when at the ſame time they bid defiance to their King.</p>
+            <p>Are not we turn'd Mad-men, and the Devil fool, His in<g ref="char:EOLhyphen"/>vention is loſt. Muſt a Nation be deſtroy'd, 'twice in halfe an age by the very ſame methods; A juglers tricks if ſhown more then once or twice becomes Childrens ſport. Popery was the Topick amongſt the zealous e're ſince I remember, and is now the only idol that ſupports the Brethrens cauſe: if the word were but forgotten they were Dumb, its the holding twig. Who would not have ſworn three years ſince that the Popes Bull was not broaken in among us: no Popery no Papiſt were the <hi>Oxford</hi> Cryes when, on my conſci<g ref="char:EOLhyphen"/>ence the promoters of the Noiſe are nearer that perſwaſion
+<pb facs="tcp:135527:5"/>
+               <!-- PDF PAGE 101 -->then my ſelf; the man they aim'd at. Do they not ſay that Kings are the peoples Creatures, made by them, and when the Spirit moves may be lay'd aſide again. Our Church abhors ſuch Doctrine, lets hold to that. <hi>Julian</hi> that cuning arch Enemy of our Religion encourag'd all Opinions and Sects amongſt the Chriſtians that tended to the rooting out of our Faith. For ſhame let's grow wiſer, we are in ſafety (if there be ſuch a thing on this ſide Heaven:) Let the moſt factious fellow of e'm all tell me what's not done to ſecure the ſubject? He is fenc'd in on every ſide, the Star Chamber, Court of Wards, High Commiſſion Court, and every thing which the people had the leaſt colour to call greiveous, are willingly laid aſide. What a noiſe has quartering of Soul<g ref="char:EOLhyphen"/>diers made? How are the Law-Books fil'd with Caſes of impriſonments. To eaſe us of theſe fears too, there's not a Souldier looks into a private houſe, or enters any Inn, but as a Traveller: the Landlord makes the Bill: what Offen<g ref="char:EOLhyphen"/>der is not bail'd out of Priſon in ſuch a time, if not pro<g ref="char:EOLhyphen"/>ſecuted, though Treaſon threw him in? If ſuch acts of Grace as theſe will not give us grateful ſouls, or at leaſt keep us in quiet, nothing but a rod of iron will. Will there be no peace till <hi>Shebah</hi>'s head is thrown over the wall. Gentlemen, I could waſt a day upon this ſubject, and challenge all the world to ſhew me ſuch another Government; therefore if theſe be ſigns of Arbitrary Power, of loſs of Liberty and Property, ſpeak, Gentlemen, be not ſilent. Good men will be convinc'd by reaſon, and bleſs their Maker for their happineſs; Ill men muſt be watch'd by thoſe that are in Power. He that grumbles at this Government, with <hi>Luci<g ref="char:EOLhyphen"/>fer</hi> would quarrel Heaven, therefore with him deſerves his puniſhment. But ſuppoſe the worſt, that our fears were true, that Religion and Allegiance did no ways oblige us, that his Majeſty had as many vices as he has vertues, would Rebellion mend the matter? No, that a Nation's Ruin is ready to atteſt. Has not that happen'd to us and much more, which fooliſh <hi>Rehoboam</hi> threatned the ten Tribes with, that his little finger ſhould be heavier upon them than his Father's Loyns, that if his Father whip'd them with rods, he would beat them with Scorpions. Gentlemen, a civil war is like a gaming houſe, where none gets at laſt but the
+<pb facs="tcp:135527:6"/>
+               <!-- PDF PAGE 102 -->Box-keeper. Not long after his Majeſties return I was at ſuch a place at a time when a great Lord had loſt no little ſum, to chear his Heart, he call's for a glaſs of Wine, and drinks a health to him that had gain'd by play; amongſt fifty Gen<g ref="char:EOLhyphen"/>tlemen there was not one would lay any title to it, at laſt in comes a little creeping fellow, and claims the health, proteſting that he had never brought into the houſe more then half a Crown at any one time, ſeldome ſo much, yet by his cunning and advantages had heap'd up many a hun<g ref="char:EOLhyphen"/>dred pounds; ſo in a Civil Warr the beggar mounts a horſeback, and all above him goes a foot, Coblers and Tinkers turn Lords, and Lords turn nothing. If Rebellion has ſucceſs, which to the diſcouragement of all Treaſon (it has had but once this ſix hundred years in <hi>England</hi>) to change it's Government, yet the leading Rebels very rarely dye in peace. If the Prince be victorious, which certainly he is, unleſs when the Almighty intends to call the Nation to a reckoning for her ſins, then the People are at mercy. Which of us would willingly call an Equal or an Inferiour, Lord? Where were our <hi>Engliſh</hi> Liberty then? Therefore ſince all cannot be Kings, let's be obedient to him that is the beſt of Kings, think Loialty our greateſt intereſt as well as Duty. Gentlemen, conſider, we have watchful eyes over us: Eſteem not them good Citizens who adviſe us to wraſtle too much with Majeſty, for we ſhall have the fall. Why then all ſay with me, Long live the King, we'le grant him any thing that he will have, becauſe we are ſufficiently aſſur'd, he will ask nothing but what we may freely, and ſafely give.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
